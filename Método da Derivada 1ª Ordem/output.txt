@@ -1,0 +1,12 @@
+Retarded = 31.3125
+Centered = 66.5625
+Advanced = 101.8125
+
+Retarded = 0.25
+Centered = 6.75
+Advanced = 13.25
+
+Retarded = 14047.152924789525
+Centered = 36761.47779945741
+Advanced = 59475.8026741253
+
